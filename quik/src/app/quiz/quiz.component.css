@@ -1,0 +1,22 @@
+.container{
+    max-width: 640px;
+    margin: auto;
+    width: 100%;
+    background: #333;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+button{
+    outline: none;
+    box-shadow: none;
+    max-width: 100px;
+    padding: 10px;
+    margin: 10px 0;
+}
